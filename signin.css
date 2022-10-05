@@ -1,32 +1,35 @@
 body{
     margin: 0%;
-    background-color:pink;
+    background-image:url(file:///C:/Users/Suleiman%20Yahaya/Pictures/abstract-colourful-watercolour-background-free-vector.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 .container{
-    margin-top:100px;
-    margin-left: 35%;
+    margin-top:90px;
+    margin-left: 27%;
     display: flex;
     align-items: center;
     justify-content: center;
     height: 400px;
-    width: 400px;
-    background-image: linear-gradient(to right,pink,teal);
-    border-radius: 10px;
-    border: 1px solid black;
+    width: 600px;
     flex-direction: column;
 }
 input{
     width: 60%;
     height: 30px;
-    border: 1px solid black;
-    margin: 10px;
-    color: black;
+    margin: 15px;
+    border: 0px; 
+    background-color:rgb(218, 177, 184);
+    border-radius: 15px;
+    padding: 3px;
+    color: darkcyan;
     font-family: lucida calligraphy;
 }
 h1{
-    margin-right: 50%;
+    margin-right: 55%;
     margin-left: 0%;
     text-align: left;
+    color: darkcyan;
     font-family: lucida calligraphy;
 }
 button{
@@ -34,6 +37,10 @@ button{
     width: 200px;
     height: 60%;
     margin: 10px;
-    color: black;
-    font-family: lucida calligraphy;
+    background-color:rgb(218, 177, 184);
+    border: 0px;
+    padding: 3px;
+    color: darkcyan;
+    border-radius: 15px;
+    font-family: lucida calligraphy;    
 }
