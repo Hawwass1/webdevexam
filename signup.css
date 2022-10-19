@@ -4,6 +4,11 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+h1{
+    font-family:lucida calligraphy;
+    font-size:40px;
+    color:palevioletred;
+}
 .container{
     margin-top:90px;
     margin-left: 27%;
@@ -19,13 +24,13 @@ input{
     height: 30px;
     margin: 15px;
     border: 0px; 
-    background-color:rgb(218, 177, 184);
+    background-color:palevioletred;
     border-radius: 15px;
     padding: 3px;
     color: darkcyan;
     font-family: lucida calligraphy;
 }
-h1{
+h2{
     margin-right: 55%;
     margin-left: 0%;
     text-align: left;
@@ -37,7 +42,7 @@ button{
     width: 200px;
     height: 60%;
     margin: 10px;
-    background-color:rgb(218, 177, 184);
+    background-color:palevioletred;
     border: 0px;
     padding: 3px;
     color: darkcyan;
